@@ -4,4 +4,6 @@ The project is under development. The aim of the project is to transform the cur
 repo is available in Gitlab.
 
 Technology: Android
+
+
 Language: Kotlin, Java
